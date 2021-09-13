@@ -1,7 +1,7 @@
 ## Welcome
-Check out [SXBLA](https://github.com/siliconmc/sxbla), our authentication system for Microsoft accounts.
+Check out [SiliconLauncher](https://github.com/siliconmc/siliconlauncher), our in-development Minecraft client launcher.
 
 ## Contact
 siliconmc@pm.me
 
-https://silicon.jacksta.dev
+https://siliconmc.software/
